@@ -55,3 +55,5 @@ public class SubmitOrderTest extends BaseTest {
 		return new Object[][] {{data.get(0)},{data.get(1)}};
 	}
 }
+
+/* Selenium Automation Test Practice - CI/CD */
